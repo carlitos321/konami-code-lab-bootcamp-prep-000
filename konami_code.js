@@ -24,7 +24,7 @@ function init() {
   // body.addEventListener('keydown', function(e) {
   //   // if user types the code in order, then send x alert
   //   const key = parseInt(e.detail || e.which);
-  // 
+  //
   //   for (let i = 0, l = code.length; i < l; i++) {
   //     console.log(code[i])
   //   }
